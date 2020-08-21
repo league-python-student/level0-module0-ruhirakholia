@@ -20,7 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eab4be07-480b-4c27-aa77-8069f62f2611" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/level0-module0-ruhirakholia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/level0-module0-ruhirakholia.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../level0-module1-ruhirakholia/.idea/level0-module1-ruhirakholia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../level0-module1-ruhirakholia/.idea/level0-module1-ruhirakholia.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../level0-module1-ruhirakholia/_03_if_else/_5_circle_calculator/circle_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../level0-module1-ruhirakholia/_03_if_else/_5_circle_calculator/circle_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../level0-module1-ruhirakholia/_03_if_else/_5_shape_selector/shape_selector.py" beforeDir="false" afterPath="$PROJECT_DIR$/../level0-module1-ruhirakholia/_03_if_else/_5_shape_selector/shape_selector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +42,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../level0-module1-ruhirakholia" />
   </component>
   <component name="ProjectId" id="1gHm8aSBcjYASmnDNoNgTRckrct" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,32 +53,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../level0-module1-ruhirakholia" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python._a_terminator_cat">
-    <configuration name="_a_greeter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="level0-module0-ruhirakholia" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_print_and_popups" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_print_and_popups/_a_greeter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.shape_selector">
     <configuration name="_a_terminator_cat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="level0-module0-ruhirakholia" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,19 +79,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_c_world_domination" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="level0-module0-ruhirakholia" />
+    <configuration name="circle_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="level0-module1-ruhirakholia" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_print_and_popups" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../level0-module1-ruhirakholia/_03_if_else/_5_circle_calculator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_print_and_popups/_c_world_domination.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../level0-module1-ruhirakholia/_03_if_else/_5_circle_calculator/circle_calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,19 +100,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_d_quiz_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="level0-module0-ruhirakholia" />
+    <configuration name="secretmessagebox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="level0-module1-ruhirakholia" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_print_and_popups" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../level0-module1-ruhirakholia/_03_if_else/_3_secret_message_box" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_print_and_popups/_d_quiz_game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../level0-module1-ruhirakholia/_03_if_else/_3_secret_message_box/secretmessagebox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,19 +121,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_e_awesome_or_not" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="level0-module0-ruhirakholia" />
+    <configuration name="shape_selector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="level0-module1-ruhirakholia" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_print_and_popups" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../level0-module1-ruhirakholia/_03_if_else/_5_shape_selector" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_print_and_popups/_e_awesome_or_not.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../level0-module1-ruhirakholia/_03_if_else/_5_shape_selector/shape_selector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tasty_tomato" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="level0-module1-ruhirakholia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../level0-module1-ruhirakholia/_03_if_else/_4_tasty_tomato" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../level0-module1-ruhirakholia/_03_if_else/_4_tasty_tomato/tasty_tomato.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.shape_selector" />
         <item itemvalue="Python._a_terminator_cat" />
-        <item itemvalue="Python._e_awesome_or_not" />
-        <item itemvalue="Python._d_quiz_game" />
-        <item itemvalue="Python._c_world_domination" />
-        <item itemvalue="Python._a_greeter" />
+        <item itemvalue="Python.circle_calculator" />
+        <item itemvalue="Python.secretmessagebox" />
+        <item itemvalue="Python.tasty_tomato" />
       </list>
     </recent_temporary>
   </component>
@@ -193,21 +201,29 @@
       <screen x="0" y="31" width="1280" height="993" />
     </state>
     <state x="339" y="359" width="597" height="341" key="#Notifications/0.31.1280.993@0.31.1280.993" timestamp="1597781178781" />
-    <state width="1259" height="260" key="GridCell.Tab.0.bottom" timestamp="1597786826583">
+    <state x="589" y="265" width="430" height="486" key="FileChooserDialogImpl" timestamp="1598040819584">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
-    <state width="1259" height="260" key="GridCell.Tab.0.bottom/0.31.1280.993@0.31.1280.993" timestamp="1597786826583" />
-    <state width="1259" height="260" key="GridCell.Tab.0.center" timestamp="1597786826582">
+    <state x="589" y="265" width="430" height="486" key="FileChooserDialogImpl/0.31.1280.993@0.31.1280.993" timestamp="1598040819584" />
+    <state width="1233" height="245" key="GridCell.Tab.0.bottom" timestamp="1598046552829">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
-    <state width="1259" height="260" key="GridCell.Tab.0.center/0.31.1280.993@0.31.1280.993" timestamp="1597786826582" />
-    <state width="1259" height="260" key="GridCell.Tab.0.left" timestamp="1597786826581">
+    <state width="1233" height="245" key="GridCell.Tab.0.bottom/0.31.1280.993@0.31.1280.993" timestamp="1598046552829" />
+    <state width="1233" height="245" key="GridCell.Tab.0.center" timestamp="1598046552828">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
-    <state width="1259" height="260" key="GridCell.Tab.0.left/0.31.1280.993@0.31.1280.993" timestamp="1597786826581" />
-    <state width="1259" height="260" key="GridCell.Tab.0.right" timestamp="1597786826582">
+    <state width="1233" height="245" key="GridCell.Tab.0.center/0.31.1280.993@0.31.1280.993" timestamp="1598046552828" />
+    <state width="1233" height="245" key="GridCell.Tab.0.left" timestamp="1598046552827">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
-    <state width="1259" height="260" key="GridCell.Tab.0.right/0.31.1280.993@0.31.1280.993" timestamp="1597786826582" />
+    <state width="1233" height="245" key="GridCell.Tab.0.left/0.31.1280.993@0.31.1280.993" timestamp="1598046552827" />
+    <state width="1233" height="245" key="GridCell.Tab.0.right" timestamp="1598046552828">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state width="1233" height="245" key="GridCell.Tab.0.right/0.31.1280.993@0.31.1280.993" timestamp="1598046552828" />
+    <state x="33" y="65" width="1022" height="732" key="SettingsEditor" timestamp="1598045152131">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state x="33" y="65" width="1022" height="732" key="SettingsEditor/0.31.1280.993@0.31.1280.993" timestamp="1598045152131" />
   </component>
 </project>
